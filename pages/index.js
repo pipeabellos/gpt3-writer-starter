@@ -69,10 +69,10 @@ const Home = () => {
             <Image src={helloGuruLogo} alt="Logo" width="40px"/>
           </div>
           <div className="header-title">
-            <h1>LinkedIn Post Generator</h1>
+            <h1>Post Generator</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Create LinkedIn posts for doing Thought Leadership</h2>
+            <h2>Create posts for doing Thought Leadership</h2>
           </div>
         </div>
         <div className="prompt-container">
